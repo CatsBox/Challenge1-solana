@@ -2,7 +2,7 @@ SOL PROOF: Beginner Course
 
 Module 2: Lesson 1 Challenge
 
-# Basic Setup and Useage
+# Basic Setup and Usage
 
 Create a Node project in your directory by entering: 
 ```
