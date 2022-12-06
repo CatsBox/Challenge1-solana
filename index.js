@@ -42,10 +42,10 @@ const {
       const connection = new Connection(clusterApiUrl('devnet'), 'confirmed');
   
       // Request airdrop of 2 SOL to the wallet
-      console.log('Airdropping some SOL to my wallet!');
+      console.log('Airdropping some SOL to user wallet!');
       const fromAirDropSignature = await connection.requestAirdrop(
         new PublicKey(userPublicKey[0]),
-        2 * LAMPORTS_PER_SOL
+        1.12345 * LAMPORTS_PER_SOL
       );
   
       await connection.confirmTransaction(fromAirDropSignature);
