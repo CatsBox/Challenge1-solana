@@ -16,5 +16,5 @@ npm install --save @solana/web3.js
 
 Use this sample public key or your own key on the devnet and run it in the terminal
 ```
-node index.js okgbCeaGJAyU98HbAwAgB5ehDnVc4SpopBAudYtJ78m
+node index.js 63pGWcMomsBcrv6CKZtNSVcqZgbtHohUNcw25tH9JVCx
 ```
